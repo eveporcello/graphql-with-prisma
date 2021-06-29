@@ -25,12 +25,3 @@ Then install the dependencies.
 cd graphql-sdl-first
 npm install
 ```
-
-## Nexus Examples
-
-```
-git clone https://github.com/graphql-nexus/schema.git
-cd schema
-npm i
-npm run examples
-```
