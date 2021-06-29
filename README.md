@@ -16,7 +16,7 @@ Thanks for joining us for today's session! We're really glad you're here.
 From your terminal, run this command in the folder where you'd like the project to be installed.
 
 ```sh
-curl https://codeload.github.com/prisma/prisma-examples/tar.gz/latest | tar -xz --strip=2 prisma-examples-latest/javascript/graphql-sdl-first
+curl https://codeload.github.com/prisma/prisma-examples/tar.gz/latest | tar -xz --strip=2 prisma-examples-latest/typescript/graphql-sdl-first
 ```
 
 Then install the dependencies.
