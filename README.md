@@ -6,6 +6,11 @@ Thanks for joining us for today's session! We're really glad you're here.
 
 - [Slides](https://slides.com/moonhighway/graphql-with-prisma/)
 
+## Query Language Samples
+
+- [Snowtooth API](https://snowtooth.moonhighway.com)
+- [Voting API](http://vote.moonhighway.com)
+
 ## Running the Sample App
 
 From your terminal, run this command in the folder where you'd like the project to be installed.
