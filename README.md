@@ -25,3 +25,10 @@ Then install the dependencies.
 cd graphql-sdl-first
 npm install
 ```
+## Useful Links
+
+* [GraphQL Error Handling](https://sachee.medium.com/200-ok-error-handling-in-graphql-7ec869aec9bc)
+* [GraphQL Nullability](https://hasura.io/blog/graphql-nulls-cheatsheet/)
+* [Prisma Schema](https://www.prisma.io/docs/concepts/components/prisma-schema)
+* [Prisma Client](https://www.prisma.io/docs/concepts/components/prisma-client)
+* [Prisma Migrate](https://www.prisma.io/docs/concepts/components/prisma-migrate)
